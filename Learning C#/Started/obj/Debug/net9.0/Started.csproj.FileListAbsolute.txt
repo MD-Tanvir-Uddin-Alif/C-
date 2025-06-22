@@ -1,0 +1,14 @@
+D:\Project\.dotNET\Learning C#\Started\bin\Debug\net9.0\Started.exe
+D:\Project\.dotNET\Learning C#\Started\bin\Debug\net9.0\Started.deps.json
+D:\Project\.dotNET\Learning C#\Started\bin\Debug\net9.0\Started.runtimeconfig.json
+D:\Project\.dotNET\Learning C#\Started\bin\Debug\net9.0\Started.dll
+D:\Project\.dotNET\Learning C#\Started\bin\Debug\net9.0\Started.pdb
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.AssemblyInfoInputs.cache
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.AssemblyInfo.cs
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.csproj.CoreCompileInputs.cache
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.dll
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\refint\Started.dll
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.pdb
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\Started.genruntimeconfig.cache
+D:\Project\.dotNET\Learning C#\Started\obj\Debug\net9.0\ref\Started.dll
