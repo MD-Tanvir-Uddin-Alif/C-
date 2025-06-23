@@ -6,7 +6,24 @@ namespace Name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            // Console.WriteLine("this is integer");
+            // int s = int.Parse(Console.ReadLine());
+            // Console.WriteLine($"the value of S is: {s}");
+
+            // Console.WriteLine("This is double: ");
+            // double d = double.Parse(Console.ReadLine());
+            // Console.WriteLine(d);
+
+            // // Console.ReadLine();
+
+            // Console.WriteLine("input your name: ");
+            // string name = Console.ReadLine();
+            // Console.WriteLine("enter your age");
+            // int age = int.Parse(Console.ReadLine());
+            // Console.WriteLine($"your name is {name} and age is {age}");  
+
+            Conditional con = new Conditional();
+            con.show();  
         }
     }
 }
