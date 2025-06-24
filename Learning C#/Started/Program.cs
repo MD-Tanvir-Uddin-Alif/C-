@@ -22,8 +22,14 @@ namespace Name
             // int age = int.Parse(Console.ReadLine());
             // Console.WriteLine($"your name is {name} and age is {age}");  
 
-            Conditional con = new Conditional();
-            con.show();  
+            // Conditional con = new Conditional();
+            // con.show(); 
+
+            // Array arr = new Array();
+            // arr.array();
+
+            new MyList().Run();
+            Console.WriteLine("open ");
         }
     }
 }
