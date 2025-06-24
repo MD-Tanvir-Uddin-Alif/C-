@@ -28,8 +28,10 @@ namespace Name
             // Array arr = new Array();
             // arr.array();
 
-            new MyList().Run();
-            Console.WriteLine("open ");
+            // new MyList().Run();
+            // Console.WriteLine("open ");
+
+            new ENUM().Run();
         }
     }
 }
