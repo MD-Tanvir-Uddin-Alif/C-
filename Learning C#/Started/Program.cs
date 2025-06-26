@@ -4,6 +4,10 @@ namespace Name
 {
     class Program
     {
+        public static int add_number (int a, int b)
+        {
+            return a + b;
+        }
         static void Main(string[] args)
         {
             // Console.WriteLine("this is integer");
@@ -31,7 +35,12 @@ namespace Name
             // new MyList().Run();
             // Console.WriteLine("open ");
 
-            new ENUM().Run();
+            // new ENUM().Run();
+
+            // int a = add_number(1, 2);
+            // Console.WriteLine(a);
+
+            new dicit().RUn();
         }
     }
 }
