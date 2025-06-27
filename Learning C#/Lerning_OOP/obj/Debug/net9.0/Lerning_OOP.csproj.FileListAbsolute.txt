@@ -1,0 +1,15 @@
+D:\Project\.dotNET\Learning C#\Lerning_OOP\bin\Debug\net9.0\Lerning_OOP.exe
+D:\Project\.dotNET\Learning C#\Lerning_OOP\bin\Debug\net9.0\Lerning_OOP.deps.json
+D:\Project\.dotNET\Learning C#\Lerning_OOP\bin\Debug\net9.0\Lerning_OOP.runtimeconfig.json
+D:\Project\.dotNET\Learning C#\Lerning_OOP\bin\Debug\net9.0\Lerning_OOP.dll
+D:\Project\.dotNET\Learning C#\Lerning_OOP\bin\Debug\net9.0\Lerning_OOP.pdb
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.AssemblyInfoInputs.cache
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.AssemblyInfo.cs
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.csproj.CoreCompileInputs.cache
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.sourcelink.json
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.dll
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\refint\Lerning_OOP.dll
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.pdb
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\Lerning_OOP.genruntimeconfig.cache
+D:\Project\.dotNET\Learning C#\Lerning_OOP\obj\Debug\net9.0\ref\Lerning_OOP.dll
