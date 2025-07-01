@@ -26,6 +26,7 @@ namespace Name
 
     public class Full_Emp : Employee
     {
+        Full_Emp(){}
         Full_Emp(string name, decimal salary, int emp_id)
         {
             Emp_Name = name;
@@ -38,6 +39,11 @@ namespace Name
             Emp_att = true;
         }
 
+        public override void CalculeteSalary()
+        {
+            Console.WriteLine("Nothing to calulete .  Have the base salary");
+        }
+
         public void Employee_Info()
         {
             Console.WriteLine($"Employee Id id {Emp_id} Employee Name is {Emp_Name} Base salary is {Emp_Salary}");
@@ -47,6 +53,7 @@ namespace Name
     class Half_Emp : Employee
     {
         protected float hour;
+        private decimal cal_salary;
 
         Half_Emp(string name, decimal salary, float hour, int emp_id)
         {
@@ -65,6 +72,12 @@ namespace Name
         {
             Console.WriteLine($"Employee Id id {Emp_id} Employee Name is {Emp_Name} Base salary is {Emp_Salary}");
 
+        }
+
+        public override void CalculeteSalary()
+        {
+            decimal s = cal_salary * hour;
+            Emp_Salary = s;
         }
 
     }

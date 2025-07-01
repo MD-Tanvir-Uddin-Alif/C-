@@ -1,0 +1,15 @@
+D:\Project\.dotNET\Learning C#\Lap_Task\bin\Debug\net9.0\Lap_Task.exe
+D:\Project\.dotNET\Learning C#\Lap_Task\bin\Debug\net9.0\Lap_Task.deps.json
+D:\Project\.dotNET\Learning C#\Lap_Task\bin\Debug\net9.0\Lap_Task.runtimeconfig.json
+D:\Project\.dotNET\Learning C#\Lap_Task\bin\Debug\net9.0\Lap_Task.dll
+D:\Project\.dotNET\Learning C#\Lap_Task\bin\Debug\net9.0\Lap_Task.pdb
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.AssemblyInfoInputs.cache
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.AssemblyInfo.cs
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.csproj.CoreCompileInputs.cache
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.sourcelink.json
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.dll
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\refint\Lap_Task.dll
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.pdb
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\Lap_Task.genruntimeconfig.cache
+D:\Project\.dotNET\Learning C#\Lap_Task\obj\Debug\net9.0\ref\Lap_Task.dll
