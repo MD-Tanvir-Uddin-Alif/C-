@@ -4,7 +4,7 @@ using EmployeeAPI.Models;
 namespace EmployeeAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/staff")]
     public class EmployeeController : ControllerBase
     {
         private static List<Employee> employees = new()
