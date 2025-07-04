@@ -1,4 +1,14 @@
+using TodoApi.Data;
+using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+
+
 var builder = WebApplication.CreateBuilder(args);
+var connection = builder.Configuration.GetConnectionString("Default");
+var serverversion = ServerVersion.Create(new Version(8, 0, 42), ServerType.MySql);
+
+builder.Services.AddDbContext<TodoContext>(options =>
+    options.UseMySql(connection, serverversion));
 
 // 🔹 1.  Register MVC controllers
 builder.Services.AddControllers();
