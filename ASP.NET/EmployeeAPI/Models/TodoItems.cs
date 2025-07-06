@@ -8,4 +8,10 @@ namespace TodoApi.Models
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     }
+
+    public class TodoCreateDto
+    {
+        public string Title { get; set; } = string.Empty;
+    }
+
 }
