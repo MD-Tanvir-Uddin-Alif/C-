@@ -1,10 +1,11 @@
 ﻿using System;
 
+
 namespace Name
 {
     class Program
     {
-        public static int add_number (int a, int b)
+        public static int add_number(int a, int b)
         {
             return a + b;
         }
@@ -40,7 +41,11 @@ namespace Name
             // int a = add_number(1, 2);
             // Console.WriteLine(a);
 
-            new dicit().RUn();
+            // new dicit().RUn();
+
+            ArrayRevize.Run();
+
+            Enumsuption.Enumsuption.Launch.Run();
         }
     }
 }

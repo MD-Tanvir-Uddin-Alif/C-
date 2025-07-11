@@ -2,39 +2,25 @@ using System;
 
 namespace Name
 {
-    public class Array
+    public class ArrayRevize
     {
-        public void array()
+        public static void Run()
         {
-            Console.WriteLine("Enter the arry size");
+            Console.WriteLine("Entr the number");
             int n = int.Parse(Console.ReadLine());
-            int[] arr = new int[n];
 
-            Console.WriteLine("Enter the value of array");
+
+            int[] arr = new int[n];
 
             for (int i = 0; i < n; i++)
             {
-
                 arr[i] = int.Parse(Console.ReadLine());
             }
 
-            int l = 0, r = arr.Length - 1;
-
-            while (l < r)
+            foreach (int i in arr)
             {
-                int temp = arr[l];
-                arr[l] = arr[r];
-                arr[r] = temp;
-
-                l++;
-                r--;
-            }
-
-            Console.WriteLine("Here is the revirsed elements");
-
-            for (int i = 0; i < n; i++)
-            {
-                Console.WriteLine(arr[i]);
+                if (i % 2 == 0) Console.WriteLine($"{i} is an even number");
+                else Console.WriteLine($"{i} is an odd number");
             }
         }
     }
