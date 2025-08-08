@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lap_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e33c992c78a3fe8045cadc49756ad6763e578f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d52c337295ccfa90b5469035c153a1bb877f585f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lap_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lap_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

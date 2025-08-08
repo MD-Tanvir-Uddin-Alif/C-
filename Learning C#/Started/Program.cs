@@ -43,9 +43,17 @@ namespace Name
 
             // new dicit().RUn();
 
-            ArrayRevize.Run();
+            // ArrayRevize.Run();
 
-            Enumsuption.Enumsuption.Launch.Run();
+            // Enumsuption.Enumsuption.Launch.Run();
+
+
+            // Shopping.Shop.Run();
+
+            // ExcetonHandeling.Run();
+
+
+            AmrException.Run();
         }
     }
 }
